@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![Rank](https://make.fun/badge/best-cooking-game-20261125-0137/musemosmouses/cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![Reward](https://make.fun/badge/best-cooking-game-20261125-0137/musemosmouses/cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+
 # Ember Kitchen — Sizzle & Serve
 
 A complete cooking game for the make.fun bounty
